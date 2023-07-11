@@ -1,0 +1,8 @@
+{
+  "aliases": {
+    "smart-cache-cli": {
+      "script-ref": "smart_cache_cli.java",
+      "description": "The CLI tool for managing Redis Smart Cache"
+    }
+  }
+}
